@@ -1,0 +1,2001 @@
+1: (0) 149 
+2: (1) 163 increase
+3: (2) 165 increase
+4: (2) 160 
+5: (3) 179 increase
+6: (4) 184 increase
+7: (5) 186 increase
+8: (6) 199 increase
+9: (7) 207 increase
+10: (8) 210 increase
+11: (9) 211 increase
+12: (10) 212 increase
+13: (11) 228 increase
+14: (12) 241 increase
+15: (13) 242 increase
+16: (14) 265 increase
+17: (15) 269 increase
+18: (16) 271 increase
+19: (17) 287 increase
+20: (17) 286 
+21: (18) 295 increase
+22: (19) 296 increase
+23: (19) 293 
+24: (20) 300 increase
+25: (21) 301 increase
+26: (22) 302 increase
+27: (23) 304 increase
+28: (24) 308 increase
+29: (25) 320 increase
+30: (26) 322 increase
+31: (26) 321 
+32: (27) 333 increase
+33: (28) 350 increase
+34: (28) 345 
+35: (29) 348 increase
+36: (29) 347 
+37: (30) 351 increase
+38: (30) 348 
+39: (31) 349 increase
+40: (31) 345 
+41: (32) 353 increase
+42: (33) 366 increase
+43: (34) 376 increase
+44: (35) 384 increase
+45: (36) 387 increase
+46: (37) 390 increase
+47: (38) 391 increase
+48: (38) 378 
+49: (39) 382 increase
+50: (40) 394 increase
+51: (41) 409 increase
+52: (42) 411 increase
+53: (43) 415 increase
+54: (44) 419 increase
+55: (45) 424 increase
+56: (46) 425 increase
+57: (47) 427 increase
+58: (48) 428 increase
+59: (49) 436 increase
+60: (50) 445 increase
+61: (51) 446 increase
+62: (52) 459 increase
+63: (53) 464 increase
+64: (54) 478 increase
+65: (55) 479 increase
+66: (56) 493 increase
+67: (56) 492 
+68: (57) 493 increase
+69: (57) 482 
+70: (58) 484 increase
+71: (59) 491 increase
+72: (60) 492 increase
+73: (61) 497 increase
+74: (62) 501 increase
+75: (63) 506 increase
+76: (64) 509 increase
+77: (65) 521 increase
+78: (66) 526 increase
+79: (67) 527 increase
+80: (68) 539 increase
+81: (69) 546 increase
+82: (70) 547 increase
+83: (71) 551 increase
+84: (72) 562 increase
+85: (73) 567 increase
+86: (74) 568 increase
+87: (75) 573 increase
+88: (76) 590 increase
+89: (77) 591 increase
+90: (78) 596 increase
+91: (79) 612 increase
+92: (80) 613 increase
+93: (81) 618 increase
+94: (82) 620 increase
+95: (82) 593 
+96: (83) 594 increase
+97: (84) 596 increase
+98: (85) 597 increase
+99: (85) 596 
+100: (86) 612 increase
+101: (87) 616 increase
+102: (88) 618 increase
+103: (89) 620 increase
+104: (90) 621 increase
+105: (91) 622 increase
+106: (91) 611 
+107: (92) 612 increase
+108: (93) 613 increase
+109: (93) 610 
+110: (94) 615 increase
+111: (95) 616 increase
+112: (96) 634 increase
+113: (97) 647 increase
+114: (98) 654 increase
+115: (99) 655 increase
+116: (100) 656 increase
+117: (101) 657 increase
+118: (102) 659 increase
+119: (103) 676 increase
+120: (104) 678 increase
+121: (104) 675 
+122: (105) 703 increase
+123: (106) 715 increase
+124: (107) 722 increase
+125: (108) 738 increase
+126: (109) 747 increase
+127: (110) 760 increase
+128: (111) 765 increase
+129: (112) 771 increase
+130: (113) 784 increase
+131: (114) 789 increase
+132: (115) 792 increase
+133: (115) 769 
+134: (116) 770 increase
+135: (117) 773 increase
+136: (117) 762 
+137: (118) 772 increase
+138: (119) 817 increase
+139: (120) 823 increase
+140: (121) 825 increase
+141: (122) 864 increase
+142: (122) 863 
+143: (122) 849 
+144: (123) 852 increase
+145: (124) 862 increase
+146: (125) 868 increase
+147: (126) 893 increase
+148: (127) 895 increase
+149: (128) 896 increase
+150: (129) 925 increase
+151: (130) 946 increase
+152: (130) 945 
+153: (131) 946 increase
+154: (131) 945 
+155: (132) 964 increase
+156: (132) 954 
+157: (133) 962 increase
+158: (134) 969 increase
+159: (135) 976 increase
+160: (136) 1004 increase
+161: (137) 1007 increase
+162: (138) 1015 increase
+163: (139) 1029 increase
+164: (140) 1037 increase
+165: (141) 1043 increase
+166: (142) 1048 increase
+167: (143) 1070 increase
+168: (144) 1080 increase
+169: (145) 1100 increase
+170: (145) 1097 
+171: (145) 1094 
+172: (146) 1102 increase
+173: (146) 1099 
+174: (146) 1098 
+175: (147) 1099 increase
+176: (147) 1096 
+177: (148) 1097 increase
+178: (149) 1117 increase
+179: (150) 1123 increase
+180: (151) 1124 increase
+181: (152) 1125 increase
+182: (153) 1127 increase
+183: (153) 1119 
+184: (154) 1121 increase
+185: (155) 1137 increase
+186: (156) 1173 increase
+187: (157) 1174 increase
+188: (158) 1179 increase
+189: (159) 1181 increase
+190: (160) 1200 increase
+191: (161) 1204 increase
+192: (161) 1175 
+193: (162) 1179 increase
+194: (163) 1180 increase
+195: (164) 1189 increase
+196: (165) 1194 increase
+197: (166) 1195 increase
+198: (167) 1197 increase
+199: (168) 1199 increase
+200: (169) 1206 increase
+201: (169) 1200 
+202: (170) 1208 increase
+203: (171) 1211 increase
+204: (172) 1213 increase
+205: (173) 1214 increase
+206: (174) 1229 increase
+207: (175) 1230 increase
+208: (176) 1271 increase
+209: (177) 1278 increase
+210: (178) 1279 increase
+211: (179) 1282 increase
+212: (180) 1288 increase
+213: (180) 1285 
+214: (181) 1291 increase
+215: (181) 1290 
+216: (182) 1294 increase
+217: (183) 1297 increase
+218: (184) 1299 increase
+219: (185) 1300 increase
+220: (186) 1320 increase
+221: (187) 1324 increase
+222: (187) 1323 
+223: (188) 1328 increase
+224: (189) 1329 increase
+225: (190) 1330 increase
+226: (191) 1331 increase
+227: (192) 1334 increase
+228: (193) 1337 increase
+229: (193) 1311 
+230: (194) 1313 increase
+231: (195) 1314 increase
+232: (196) 1320 increase
+233: (197) 1323 increase
+234: (197) 1318 
+235: (198) 1323 increase
+236: (199) 1331 increase
+237: (200) 1339 increase
+238: (201) 1340 increase
+239: (201) 1328 
+240: (202) 1334 increase
+241: (203) 1336 increase
+242: (204) 1342 increase
+243: (205) 1343 increase
+244: (206) 1350 increase
+245: (207) 1357 increase
+246: (208) 1359 increase
+247: (209) 1377 increase
+248: (210) 1378 increase
+249: (211) 1384 increase
+250: (211) 1368 
+251: (212) 1369 increase
+252: (213) 1371 increase
+253: (214) 1380 increase
+254: (214) 1360 
+255: (214) 1349 
+256: (215) 1374 increase
+257: (215) 1373 
+258: (216) 1376 increase
+259: (216) 1372 
+260: (217) 1382 increase
+261: (218) 1384 increase
+262: (219) 1391 increase
+263: (220) 1393 increase
+264: (221) 1399 increase
+265: (222) 1403 increase
+266: (223) 1404 increase
+267: (224) 1419 increase
+268: (225) 1427 increase
+269: (225) 1425 
+270: (226) 1454 increase
+271: (227) 1455 increase
+272: (228) 1458 increase
+273: (229) 1459 increase
+274: (230) 1479 increase
+275: (231) 1484 increase
+276: (232) 1485 increase
+277: (233) 1487 increase
+278: (234) 1492 increase
+279: (235) 1497 increase
+280: (236) 1499 increase
+281: (236) 1496 
+282: (237) 1503 increase
+283: (238) 1528 increase
+284: (239) 1543 increase
+285: (239) 1535 
+286: (240) 1546 increase
+287: (241) 1547 increase
+288: (242) 1549 increase
+289: (242) 1546 
+290: (243) 1547 increase
+291: (244) 1549 increase
+292: (245) 1550 increase
+293: (246) 1553 increase
+294: (247) 1581 increase
+295: (248) 1583 increase
+296: (249) 1598 increase
+297: (250) 1616 increase
+298: (251) 1618 increase
+299: (252) 1640 increase
+300: (252) 1638 
+301: (253) 1655 increase
+302: (254) 1686 increase
+303: (254) 1685 
+304: (254) 1671 
+305: (255) 1674 increase
+306: (256) 1680 increase
+307: (256) 1673 
+308: (257) 1675 increase
+309: (258) 1676 increase
+310: (258) 1673 
+311: (259) 1674 increase
+312: (260) 1679 increase
+313: (261) 1681 increase
+314: (262) 1689 increase
+315: (263) 1701 increase
+316: (264) 1702 increase
+317: (265) 1708 increase
+318: (266) 1722 increase
+319: (267) 1723 increase
+320: (268) 1727 increase
+321: (269) 1739 increase
+322: (270) 1742 increase
+323: (271) 1743 increase
+324: (272) 1756 increase
+325: (273) 1759 increase
+326: (274) 1763 increase
+327: (275) 1767 increase
+328: (276) 1768 increase
+329: (277) 1772 increase
+330: (277) 1771 
+331: (278) 1775 increase
+332: (279) 1783 increase
+333: (280) 1784 increase
+334: (281) 1794 increase
+335: (282) 1796 increase
+336: (283) 1815 increase
+337: (283) 1811 
+338: (284) 1812 increase
+339: (285) 1822 increase
+340: (285) 1820 
+341: (286) 1836 increase
+342: (286) 1825 
+343: (287) 1828 increase
+344: (287) 1826 
+345: (288) 1827 increase
+346: (289) 1832 increase
+347: (290) 1844 increase
+348: (291) 1847 increase
+349: (292) 1854 increase
+350: (293) 1855 increase
+351: (294) 1857 increase
+352: (295) 1864 increase
+353: (295) 1854 
+354: (296) 1869 increase
+355: (296) 1868 
+356: (296) 1867 
+357: (297) 1868 increase
+358: (298) 1872 increase
+359: (299) 1875 increase
+360: (300) 1876 increase
+361: (301) 1880 increase
+362: (301) 1874 
+363: (302) 1875 increase
+364: (303) 1876 increase
+365: (304) 1877 increase
+366: (305) 1881 increase
+367: (306) 1882 increase
+368: (307) 1897 increase
+369: (308) 1898 increase
+370: (309) 1903 increase
+371: (310) 1904 increase
+372: (311) 1906 increase
+373: (311) 1904 
+374: (312) 1911 increase
+375: (312) 1908 
+376: (313) 1909 increase
+377: (314) 1930 increase
+378: (314) 1929 
+379: (314) 1928 
+380: (315) 1948 increase
+381: (316) 1958 increase
+382: (317) 1963 increase
+383: (318) 1964 increase
+384: (319) 1967 increase
+385: (320) 1971 increase
+386: (320) 1960 
+387: (320) 1958 
+388: (321) 1968 increase
+389: (322) 1969 increase
+390: (323) 1972 increase
+391: (324) 1973 increase
+392: (325) 1974 increase
+393: (326) 1980 increase
+394: (327) 1981 increase
+395: (328) 1992 increase
+396: (329) 1993 increase
+397: (330) 1999 increase
+398: (330) 1998 
+399: (330) 1997 
+400: (330) 1996 
+401: (331) 1997 increase
+402: (332) 2008 increase
+403: (332) 2007 
+404: (332) 1987 
+405: (333) 1991 increase
+406: (334) 1992 increase
+407: (335) 1998 increase
+408: (336) 2006 increase
+409: (337) 2007 increase
+410: (338) 2014 increase
+411: (339) 2017 increase
+412: (340) 2022 increase
+413: (341) 2027 increase
+414: (341) 2017 
+415: (342) 2020 increase
+416: (343) 2048 increase
+417: (344) 2049 increase
+418: (345) 2050 increase
+419: (346) 2054 increase
+420: (347) 2055 increase
+421: (348) 2067 increase
+422: (349) 2072 increase
+423: (350) 2089 increase
+424: (350) 2075 
+425: (351) 2076 increase
+426: (352) 2077 increase
+427: (353) 2078 increase
+428: (354) 2085 increase
+429: (355) 2086 increase
+430: (356) 2088 increase
+431: (357) 2091 increase
+432: (357) 2086 
+433: (358) 2094 increase
+434: (359) 2102 increase
+435: (360) 2103 increase
+436: (361) 2105 increase
+437: (362) 2107 increase
+438: (363) 2109 increase
+439: (364) 2111 increase
+440: (365) 2124 increase
+441: (366) 2125 increase
+442: (367) 2127 increase
+443: (368) 2130 increase
+444: (369) 2131 increase
+445: (370) 2133 increase
+446: (371) 2136 increase
+447: (372) 2147 increase
+448: (373) 2148 increase
+449: (374) 2153 increase
+450: (374) 2152 
+451: (375) 2158 increase
+452: (375) 2157 
+453: (376) 2164 increase
+454: (377) 2165 increase
+455: (378) 2167 increase
+456: (378) 2166 
+457: (379) 2200 increase
+458: (380) 2201 increase
+459: (380) 2200 
+460: (381) 2206 increase
+461: (382) 2207 increase
+462: (382) 2197 
+463: (383) 2208 increase
+464: (384) 2209 increase
+465: (385) 2211 increase
+466: (386) 2217 increase
+467: (387) 2235 increase
+468: (388) 2236 increase
+469: (389) 2243 increase
+470: (389) 2233 
+471: (389) 2226 
+472: (390) 2238 increase
+473: (391) 2244 increase
+474: (391) 2237 
+475: (391) 2232 
+476: (391) 2229 
+477: (392) 2233 increase
+478: (393) 2242 increase
+479: (393) 2239 
+480: (394) 2240 increase
+481: (395) 2241 increase
+482: (396) 2242 increase
+483: (397) 2247 increase
+484: (398) 2248 increase
+485: (399) 2260 increase
+486: (400) 2276 increase
+487: (400) 2273 
+488: (401) 2275 increase
+489: (402) 2301 increase
+490: (403) 2317 increase
+491: (404) 2340 increase
+492: (405) 2341 increase
+493: (405) 2328 
+494: (406) 2332 increase
+495: (406) 2326 
+496: (406) 2322 
+497: (407) 2323 increase
+498: (408) 2330 increase
+499: (409) 2334 increase
+500: (410) 2351 increase
+501: (411) 2352 increase
+502: (412) 2360 increase
+503: (413) 2370 increase
+504: (414) 2371 increase
+505: (414) 2370 
+506: (415) 2377 increase
+507: (416) 2378 increase
+508: (417) 2381 increase
+509: (418) 2392 increase
+510: (419) 2406 increase
+511: (419) 2385 
+512: (420) 2392 increase
+513: (421) 2397 increase
+514: (421) 2395 
+515: (421) 2393 
+516: (422) 2397 increase
+517: (422) 2395 
+518: (423) 2414 increase
+519: (424) 2418 increase
+520: (425) 2424 increase
+521: (426) 2429 increase
+522: (427) 2431 increase
+523: (428) 2455 increase
+524: (429) 2456 increase
+525: (430) 2468 increase
+526: (431) 2478 increase
+527: (432) 2483 increase
+528: (433) 2485 increase
+529: (433) 2484 
+530: (434) 2485 increase
+531: (435) 2486 increase
+532: (435) 2475 
+533: (436) 2484 increase
+534: (437) 2493 increase
+535: (438) 2494 increase
+536: (439) 2513 increase
+537: (440) 2519 increase
+538: (441) 2529 increase
+539: (442) 2530 increase
+540: (443) 2535 increase
+541: (444) 2537 increase
+542: (445) 2555 increase
+543: (445) 2540 
+544: (446) 2541 increase
+545: (446) 2539 
+546: (446) 2533 
+547: (447) 2534 increase
+548: (448) 2543 increase
+549: (449) 2548 increase
+550: (450) 2551 increase
+551: (451) 2557 increase
+552: (452) 2561 increase
+553: (453) 2563 increase
+554: (454) 2565 increase
+555: (455) 2600 increase
+556: (456) 2601 increase
+557: (456) 2595 
+558: (456) 2594 
+559: (457) 2609 increase
+560: (458) 2613 increase
+561: (458) 2587 
+562: (459) 2591 increase
+563: (460) 2598 increase
+564: (461) 2604 increase
+565: (461) 2564 
+566: (462) 2568 increase
+567: (463) 2570 increase
+568: (464) 2576 increase
+569: (464) 2575 
+570: (465) 2577 increase
+571: (466) 2595 increase
+572: (467) 2602 increase
+573: (468) 2605 increase
+574: (469) 2613 increase
+575: (470) 2615 increase
+576: (470) 2606 
+577: (470) 2601 
+578: (470) 2600 
+579: (470) 2598 
+580: (471) 2599 increase
+581: (472) 2601 increase
+582: (473) 2603 increase
+583: (474) 2617 increase
+584: (475) 2623 increase
+585: (476) 2625 increase
+586: (477) 2626 increase
+587: (478) 2638 increase
+588: (479) 2641 increase
+589: (480) 2642 increase
+590: (480) 2636 
+591: (481) 2637 increase
+592: (481) 2630 
+593: (481) 2617 
+594: (482) 2619 increase
+595: (482) 2616 
+596: (482) 2615 
+597: (483) 2624 increase
+598: (484) 2633 increase
+599: (485) 2635 increase
+600: (486) 2663 increase
+601: (487) 2666 increase
+602: (488) 2668 increase
+603: (489) 2671 increase
+604: (490) 2672 increase
+605: (491) 2675 increase
+606: (492) 2685 increase
+607: (493) 2686 increase
+608: (494) 2697 increase
+609: (495) 2702 increase
+610: (496) 2704 increase
+611: (497) 2723 increase
+612: (498) 2724 increase
+613: (499) 2729 increase
+614: (499) 2716 
+615: (500) 2718 increase
+616: (501) 2727 increase
+617: (502) 2731 increase
+618: (503) 2770 increase
+619: (503) 2761 
+620: (504) 2778 increase
+621: (505) 2800 increase
+622: (506) 2801 increase
+623: (506) 2798 
+624: (507) 2799 increase
+625: (508) 2800 increase
+626: (509) 2801 increase
+627: (509) 2798 
+628: (509) 2794 
+629: (510) 2795 increase
+630: (511) 2835 increase
+631: (512) 2836 increase
+632: (513) 2845 increase
+633: (514) 2848 increase
+634: (515) 2858 increase
+635: (516) 2873 increase
+636: (517) 2874 increase
+637: (518) 2892 increase
+638: (519) 2906 increase
+639: (519) 2898 
+640: (520) 2927 increase
+641: (521) 2933 increase
+642: (522) 2936 increase
+643: (523) 2940 increase
+644: (524) 2948 increase
+645: (525) 2950 increase
+646: (525) 2945 
+647: (526) 2947 increase
+648: (527) 2957 increase
+649: (527) 2949 
+650: (528) 2950 increase
+651: (529) 2951 increase
+652: (530) 2957 increase
+653: (531) 2959 increase
+654: (532) 2960 increase
+655: (533) 2962 increase
+656: (534) 2978 increase
+657: (535) 2982 increase
+658: (536) 2983 increase
+659: (537) 2986 increase
+660: (538) 3000 increase
+661: (539) 3002 increase
+662: (540) 3004 increase
+663: (541) 3005 increase
+664: (541) 3002 
+665: (542) 3009 increase
+666: (543) 3022 increase
+667: (543) 3009 
+668: (543) 3002 
+669: (544) 3003 increase
+670: (545) 3022 increase
+671: (546) 3037 increase
+672: (547) 3040 increase
+673: (548) 3041 increase
+674: (549) 3042 increase
+675: (550) 3044 increase
+676: (551) 3045 increase
+677: (552) 3049 increase
+678: (553) 3053 increase
+679: (554) 3057 increase
+680: (555) 3060 increase
+681: (556) 3061 increase
+682: (556) 3059 
+683: (557) 3060 increase
+684: (558) 3070 increase
+685: (559) 3071 increase
+686: (560) 3072 increase
+687: (561) 3075 increase
+688: (562) 3076 increase
+689: (563) 3081 increase
+690: (564) 3084 increase
+691: (564) 3081 
+692: (564) 3080 
+693: (565) 3086 increase
+694: (566) 3098 increase
+695: (567) 3099 increase
+696: (568) 3100 increase
+697: (569) 3105 increase
+698: (570) 3107 increase
+699: (571) 3113 increase
+700: (572) 3121 increase
+701: (573) 3126 increase
+702: (574) 3131 increase
+703: (575) 3136 increase
+704: (576) 3145 increase
+705: (577) 3150 increase
+706: (578) 3153 increase
+707: (579) 3154 increase
+708: (580) 3156 increase
+709: (581) 3157 increase
+710: (582) 3165 increase
+711: (582) 3154 
+712: (583) 3155 increase
+713: (584) 3156 increase
+714: (585) 3169 increase
+715: (586) 3176 increase
+716: (587) 3191 increase
+717: (587) 3188 
+718: (588) 3190 increase
+719: (589) 3197 increase
+720: (590) 3199 increase
+721: (591) 3221 increase
+722: (592) 3254 increase
+723: (593) 3262 increase
+724: (594) 3263 increase
+725: (594) 3259 
+726: (594) 3258 
+727: (595) 3259 increase
+728: (596) 3267 increase
+729: (596) 3266 
+730: (597) 3268 increase
+731: (597) 3263 
+732: (598) 3268 increase
+733: (599) 3269 increase
+734: (600) 3291 increase
+735: (601) 3295 increase
+736: (601) 3294 
+737: (602) 3326 increase
+738: (603) 3327 increase
+739: (604) 3335 increase
+740: (604) 3327 
+741: (605) 3343 increase
+742: (606) 3346 increase
+743: (607) 3369 increase
+744: (607) 3368 
+745: (608) 3372 increase
+746: (609) 3375 increase
+747: (610) 3379 increase
+748: (611) 3386 increase
+749: (612) 3395 increase
+750: (613) 3396 increase
+751: (614) 3397 increase
+752: (615) 3409 increase
+753: (616) 3412 increase
+754: (617) 3416 increase
+755: (618) 3418 increase
+756: (619) 3419 increase
+757: (619) 3418 
+758: (619) 3417 
+759: (619) 3414 
+760: (620) 3424 increase
+761: (621) 3425 increase
+762: (622) 3430 increase
+763: (623) 3431 increase
+764: (624) 3433 increase
+765: (625) 3434 increase
+766: (626) 3435 increase
+767: (626) 3421 
+768: (627) 3422 increase
+769: (628) 3424 increase
+770: (629) 3425 increase
+771: (629) 3416 
+772: (630) 3429 increase
+773: (630) 3423 
+774: (631) 3432 increase
+775: (632) 3444 increase
+776: (633) 3451 increase
+777: (634) 3468 increase
+778: (635) 3469 increase
+779: (635) 3468 
+780: (636) 3470 increase
+781: (637) 3471 increase
+782: (638) 3472 increase
+783: (639) 3473 increase
+784: (639) 3471 
+785: (640) 3483 increase
+786: (641) 3486 increase
+787: (642) 3495 increase
+788: (643) 3496 increase
+789: (644) 3501 increase
+790: (645) 3505 increase
+791: (645) 3496 
+792: (646) 3497 increase
+793: (647) 3507 increase
+794: (648) 3512 increase
+795: (649) 3515 increase
+796: (650) 3519 increase
+797: (651) 3523 increase
+798: (652) 3524 increase
+799: (653) 3525 increase
+800: (653) 3524 
+801: (654) 3549 increase
+802: (655) 3551 increase
+803: (655) 3525 
+804: (656) 3526 increase
+805: (657) 3534 increase
+806: (658) 3536 increase
+807: (659) 3542 increase
+808: (660) 3545 increase
+809: (661) 3548 increase
+810: (661) 3527 
+811: (662) 3529 increase
+812: (662) 3528 
+813: (663) 3553 increase
+814: (664) 3555 increase
+815: (665) 3560 increase
+816: (666) 3561 increase
+817: (667) 3580 increase
+818: (668) 3582 increase
+819: (668) 3579 
+820: (669) 3582 increase
+821: (670) 3586 increase
+822: (670) 3584 
+823: (671) 3588 increase
+824: (671) 3564 
+825: (672) 3572 increase
+826: (672) 3568 
+827: (672) 3567 
+828: (672) 3565 
+829: (673) 3583 increase
+830: (673) 3575 
+831: (674) 3579 increase
+832: (675) 3581 increase
+833: (676) 3589 increase
+834: (677) 3605 increase
+835: (678) 3613 increase
+836: (679) 3615 increase
+837: (680) 3617 increase
+838: (681) 3643 increase
+839: (682) 3645 increase
+840: (683) 3652 increase
+841: (684) 3654 increase
+842: (684) 3653 
+843: (685) 3654 increase
+844: (686) 3659 increase
+845: (686) 3656 
+846: (687) 3659 increase
+847: (687) 3653 
+848: (687) 3651 
+849: (688) 3654 increase
+850: (689) 3657 increase
+851: (690) 3675 increase
+852: (691) 3677 increase
+853: (692) 3679 increase
+854: (693) 3707 increase
+855: (694) 3710 increase
+856: (695) 3717 increase
+857: (696) 3755 increase
+858: (697) 3758 increase
+859: (698) 3759 increase
+860: (699) 3761 increase
+861: (700) 3766 increase
+862: (701) 3768 increase
+863: (701) 3759 
+864: (702) 3761 increase
+865: (703) 3762 increase
+866: (704) 3790 increase
+867: (705) 3791 increase
+868: (706) 3793 increase
+869: (707) 3797 increase
+870: (707) 3784 
+871: (708) 3785 increase
+872: (709) 3786 increase
+873: (710) 3787 increase
+874: (711) 3790 increase
+875: (712) 3792 increase
+876: (712) 3784 
+877: (713) 3789 increase
+878: (714) 3792 increase
+879: (715) 3795 increase
+880: (715) 3789 
+881: (716) 3790 increase
+882: (717) 3797 increase
+883: (717) 3783 
+884: (718) 3795 increase
+885: (718) 3792 
+886: (719) 3801 increase
+887: (720) 3804 increase
+888: (721) 3806 increase
+889: (722) 3810 increase
+890: (722) 3808 
+891: (723) 3813 increase
+892: (723) 3793 
+893: (724) 3797 increase
+894: (725) 3802 increase
+895: (726) 3810 increase
+896: (727) 3822 increase
+897: (728) 3825 increase
+898: (729) 3830 increase
+899: (730) 3839 increase
+900: (730) 3838 
+901: (730) 3837 
+902: (731) 3838 increase
+903: (732) 3839 increase
+904: (733) 3840 increase
+905: (734) 3841 increase
+906: (735) 3842 increase
+907: (736) 3862 increase
+908: (737) 3870 increase
+909: (738) 3871 increase
+910: (739) 3886 increase
+911: (740) 3887 increase
+912: (741) 3890 increase
+913: (741) 3882 
+914: (742) 3890 increase
+915: (742) 3884 
+916: (743) 3885 increase
+917: (744) 3907 increase
+918: (745) 3914 increase
+919: (746) 3926 increase
+920: (747) 3934 increase
+921: (748) 3935 increase
+922: (749) 3944 increase
+923: (750) 3954 increase
+924: (750) 3946 
+925: (751) 3951 increase
+926: (752) 3954 increase
+927: (753) 3957 increase
+928: (754) 3958 increase
+929: (755) 3970 increase
+930: (756) 3981 increase
+931: (757) 3988 increase
+932: (757) 3985 
+933: (758) 3988 increase
+934: (759) 3989 increase
+935: (759) 3982 
+936: (759) 3978 
+937: (760) 3979 increase
+938: (761) 3980 increase
+939: (762) 3981 increase
+940: (763) 4001 increase
+941: (764) 4002 increase
+942: (765) 4011 increase
+943: (766) 4016 increase
+944: (767) 4021 increase
+945: (768) 4026 increase
+946: (768) 4024 
+947: (769) 4027 increase
+948: (770) 4043 increase
+949: (771) 4044 increase
+950: (772) 4062 increase
+951: (773) 4066 increase
+952: (774) 4069 increase
+953: (774) 4067 
+954: (775) 4087 increase
+955: (776) 4099 increase
+956: (776) 4097 
+957: (776) 4091 
+958: (777) 4093 increase
+959: (777) 4090 
+960: (777) 4088 
+961: (778) 4094 increase
+962: (779) 4100 increase
+963: (780) 4108 increase
+964: (781) 4109 increase
+965: (781) 4105 
+966: (782) 4121 increase
+967: (783) 4138 increase
+968: (784) 4141 increase
+969: (785) 4144 increase
+970: (786) 4145 increase
+971: (787) 4154 increase
+972: (787) 4153 
+973: (788) 4156 increase
+974: (789) 4157 increase
+975: (789) 4153 
+976: (789) 4151 
+977: (790) 4157 increase
+978: (791) 4161 increase
+979: (792) 4162 increase
+980: (793) 4163 increase
+981: (794) 4165 increase
+982: (794) 4162 
+983: (795) 4171 increase
+984: (795) 4170 
+985: (796) 4177 increase
+986: (797) 4192 increase
+987: (798) 4202 increase
+988: (799) 4203 increase
+989: (800) 4204 increase
+990: (801) 4213 increase
+991: (802) 4217 increase
+992: (803) 4218 increase
+993: (804) 4220 increase
+994: (805) 4221 increase
+995: (806) 4222 increase
+996: (807) 4228 increase
+997: (808) 4258 increase
+998: (809) 4259 increase
+999: (810) 4261 increase
+1000: (811) 4262 increase
+1001: (812) 4263 increase
+1002: (813) 4267 increase
+1003: (814) 4269 increase
+1004: (815) 4277 increase
+1005: (816) 4279 increase
+1006: (816) 4278 
+1007: (816) 4256 
+1008: (817) 4258 increase
+1009: (818) 4277 increase
+1010: (819) 4301 increase
+1011: (819) 4297 
+1012: (820) 4336 increase
+1013: (820) 4315 
+1014: (820) 4301 
+1015: (821) 4302 increase
+1016: (821) 4299 
+1017: (821) 4291 
+1018: (822) 4294 increase
+1019: (823) 4295 increase
+1020: (824) 4297 increase
+1021: (824) 4291 
+1022: (825) 4292 increase
+1023: (826) 4297 increase
+1024: (827) 4303 increase
+1025: (828) 4313 increase
+1026: (829) 4319 increase
+1027: (830) 4327 increase
+1028: (830) 4312 
+1029: (830) 4311 
+1030: (831) 4316 increase
+1031: (832) 4321 increase
+1032: (833) 4323 increase
+1033: (834) 4335 increase
+1034: (835) 4337 increase
+1035: (836) 4338 increase
+1036: (837) 4348 increase
+1037: (837) 4343 
+1038: (838) 4344 increase
+1039: (839) 4345 increase
+1040: (839) 4327 
+1041: (840) 4329 increase
+1042: (841) 4331 increase
+1043: (842) 4334 increase
+1044: (843) 4355 increase
+1045: (844) 4356 increase
+1046: (844) 4352 
+1047: (845) 4360 increase
+1048: (846) 4366 increase
+1049: (847) 4376 increase
+1050: (848) 4383 increase
+1051: (849) 4391 increase
+1052: (849) 4373 
+1053: (850) 4388 increase
+1054: (850) 4376 
+1055: (850) 4372 
+1056: (850) 4369 
+1057: (850) 4366 
+1058: (851) 4376 increase
+1059: (852) 4392 increase
+1060: (853) 4397 increase
+1061: (854) 4398 increase
+1062: (855) 4406 increase
+1063: (855) 4405 
+1064: (856) 4420 increase
+1065: (857) 4427 increase
+1066: (857) 4426 
+1067: (857) 4423 
+1068: (857) 4419 
+1069: (858) 4420 increase
+1070: (858) 4418 
+1071: (859) 4420 increase
+1072: (859) 4418 
+1073: (860) 4423 increase
+1074: (861) 4427 increase
+1075: (862) 4428 increase
+1076: (863) 4430 increase
+1077: (863) 4419 
+1078: (864) 4420 increase
+1079: (865) 4421 increase
+1080: (865) 4417 
+1081: (866) 4418 increase
+1082: (867) 4435 increase
+1083: (867) 4434 
+1084: (868) 4448 increase
+1085: (869) 4449 increase
+1086: (870) 4450 increase
+1087: (871) 4451 increase
+1088: (872) 4456 increase
+1089: (872) 4453 
+1090: (873) 4456 increase
+1091: (874) 4480 increase
+1092: (875) 4481 increase
+1093: (876) 4504 increase
+1094: (877) 4512 increase
+1095: (878) 4519 increase
+1096: (879) 4527 increase
+1097: (880) 4530 increase
+1098: (880) 4529 
+1099: (881) 4530 increase
+1100: (882) 4549 increase
+1101: (883) 4569 increase
+1102: (884) 4572 increase
+1103: (885) 4579 increase
+1104: (885) 4578 
+1105: (886) 4583 increase
+1106: (887) 4587 increase
+1107: (888) 4599 increase
+1108: (889) 4604 increase
+1109: (890) 4619 increase
+1110: (890) 4618 
+1111: (891) 4619 increase
+1112: (892) 4627 increase
+1113: (893) 4628 increase
+1114: (893) 4626 
+1115: (894) 4627 increase
+1116: (895) 4629 increase
+1117: (895) 4628 
+1118: (896) 4632 increase
+1119: (897) 4635 increase
+1120: (898) 4636 increase
+1121: (899) 4669 increase
+1122: (900) 4681 increase
+1123: (901) 4684 increase
+1124: (901) 4681 
+1125: (902) 4683 increase
+1126: (902) 4682 
+1127: (903) 4686 increase
+1128: (904) 4690 increase
+1129: (904) 4689 
+1130: (905) 4690 increase
+1131: (906) 4692 increase
+1132: (907) 4695 increase
+1133: (908) 4696 increase
+1134: (908) 4692 
+1135: (908) 4691 
+1136: (909) 4722 increase
+1137: (909) 4721 
+1138: (909) 4720 
+1139: (910) 4721 increase
+1140: (911) 4732 increase
+1141: (912) 4735 increase
+1142: (912) 4734 
+1143: (913) 4737 increase
+1144: (913) 4736 
+1145: (914) 4739 increase
+1146: (915) 4744 increase
+1147: (916) 4775 increase
+1148: (917) 4790 increase
+1149: (918) 4796 increase
+1150: (918) 4769 
+1151: (919) 4770 increase
+1152: (919) 4763 
+1153: (920) 4765 increase
+1154: (921) 4787 increase
+1155: (922) 4804 increase
+1156: (922) 4792 
+1157: (923) 4794 increase
+1158: (924) 4795 increase
+1159: (924) 4793 
+1160: (925) 4794 increase
+1161: (926) 4799 increase
+1162: (927) 4817 increase
+1163: (928) 4828 increase
+1164: (929) 4842 increase
+1165: (930) 4844 increase
+1166: (931) 4849 increase
+1167: (932) 4852 increase
+1168: (933) 4876 increase
+1169: (934) 4877 increase
+1170: (935) 4892 increase
+1171: (936) 4896 increase
+1172: (937) 4906 increase
+1173: (938) 4907 increase
+1174: (939) 4910 increase
+1175: (940) 4922 increase
+1176: (941) 4927 increase
+1177: (942) 4930 increase
+1178: (943) 4933 increase
+1179: (944) 4934 increase
+1180: (945) 4935 increase
+1181: (946) 4940 increase
+1182: (946) 4938 
+1183: (947) 4951 increase
+1184: (948) 4966 increase
+1185: (949) 4975 increase
+1186: (950) 4987 increase
+1187: (951) 4988 increase
+1188: (952) 4991 increase
+1189: (953) 4992 increase
+1190: (954) 4996 increase
+1191: (955) 5001 increase
+1192: (956) 5002 increase
+1193: (957) 5014 increase
+1194: (958) 5026 increase
+1195: (959) 5031 increase
+1196: (960) 5035 increase
+1197: (961) 5038 increase
+1198: (961) 5037 
+1199: (962) 5038 increase
+1200: (963) 5048 increase
+1201: (964) 5049 increase
+1202: (965) 5072 increase
+1203: (966) 5074 increase
+1204: (967) 5100 increase
+1205: (968) 5101 increase
+1206: (969) 5107 increase
+1207: (970) 5116 increase
+1208: (970) 5115 
+1209: (971) 5127 increase
+1210: (971) 5125 
+1211: (972) 5134 increase
+1212: (973) 5136 increase
+1213: (974) 5140 increase
+1214: (975) 5143 increase
+1215: (976) 5150 increase
+1216: (976) 5148 
+1217: (977) 5178 increase
+1218: (978) 5179 increase
+1219: (979) 5181 increase
+1220: (980) 5186 increase
+1221: (981) 5187 increase
+1222: (982) 5191 increase
+1223: (983) 5202 increase
+1224: (984) 5204 increase
+1225: (984) 5202 
+1226: (985) 5206 increase
+1227: (986) 5217 increase
+1228: (986) 5214 
+1229: (987) 5224 increase
+1230: (987) 5221 
+1231: (988) 5236 increase
+1232: (988) 5231 
+1233: (989) 5232 increase
+1234: (990) 5235 increase
+1235: (990) 5226 
+1236: (991) 5230 increase
+1237: (992) 5231 increase
+1238: (992) 5210 
+1239: (993) 5219 increase
+1240: (994) 5223 increase
+1241: (995) 5224 increase
+1242: (996) 5225 increase
+1243: (997) 5229 increase
+1244: (998) 5230 increase
+1245: (999) 5239 increase
+1246: (1000) 5254 increase
+1247: (1001) 5261 increase
+1248: (1002) 5262 increase
+1249: (1003) 5265 increase
+1250: (1003) 5261 
+1251: (1004) 5262 increase
+1252: (1005) 5263 increase
+1253: (1006) 5270 increase
+1254: (1007) 5275 increase
+1255: (1007) 5274 
+1256: (1007) 5270 
+1257: (1007) 5267 
+1258: (1007) 5263 
+1259: (1008) 5265 increase
+1260: (1009) 5289 increase
+1261: (1010) 5290 increase
+1262: (1011) 5298 increase
+1263: (1012) 5300 increase
+1264: (1013) 5303 increase
+1265: (1013) 5301 
+1266: (1014) 5302 increase
+1267: (1015) 5305 increase
+1268: (1016) 5319 increase
+1269: (1017) 5324 increase
+1270: (1018) 5348 increase
+1271: (1019) 5351 increase
+1272: (1020) 5355 increase
+1273: (1021) 5356 increase
+1274: (1021) 5354 
+1275: (1022) 5365 increase
+1276: (1022) 5359 
+1277: (1022) 5356 
+1278: (1023) 5357 increase
+1279: (1024) 5380 increase
+1280: (1024) 5378 
+1281: (1025) 5395 increase
+1282: (1026) 5403 increase
+1283: (1027) 5413 increase
+1284: (1028) 5422 increase
+1285: (1028) 5421 
+1286: (1029) 5431 increase
+1287: (1029) 5430 
+1288: (1030) 5446 increase
+1289: (1031) 5458 increase
+1290: (1032) 5462 increase
+1291: (1033) 5466 increase
+1292: (1034) 5467 increase
+1293: (1035) 5471 increase
+1294: (1036) 5472 increase
+1295: (1036) 5471 
+1296: (1037) 5486 increase
+1297: (1038) 5494 increase
+1298: (1039) 5495 increase
+1299: (1040) 5497 increase
+1300: (1041) 5500 increase
+1301: (1042) 5520 increase
+1302: (1043) 5522 increase
+1303: (1044) 5525 increase
+1304: (1045) 5529 increase
+1305: (1046) 5562 increase
+1306: (1047) 5563 increase
+1307: (1048) 5566 increase
+1308: (1049) 5569 increase
+1309: (1050) 5572 increase
+1310: (1051) 5586 increase
+1311: (1052) 5592 increase
+1312: (1053) 5594 increase
+1313: (1054) 5595 increase
+1314: (1055) 5598 increase
+1315: (1056) 5603 increase
+1316: (1056) 5587 
+1317: (1057) 5588 increase
+1318: (1058) 5592 increase
+1319: (1059) 5595 increase
+1320: (1060) 5596 increase
+1321: (1061) 5605 increase
+1322: (1062) 5626 increase
+1323: (1063) 5628 increase
+1324: (1064) 5629 increase
+1325: (1065) 5632 increase
+1326: (1066) 5637 increase
+1327: (1067) 5639 increase
+1328: (1068) 5643 increase
+1329: (1069) 5647 increase
+1330: (1069) 5629 
+1331: (1070) 5634 increase
+1332: (1071) 5642 increase
+1333: (1072) 5643 increase
+1334: (1073) 5651 increase
+1335: (1073) 5646 
+1336: (1074) 5662 increase
+1337: (1075) 5663 increase
+1338: (1076) 5675 increase
+1339: (1077) 5677 increase
+1340: (1078) 5684 increase
+1341: (1079) 5688 increase
+1342: (1080) 5700 increase
+1343: (1081) 5703 increase
+1344: (1081) 5681 
+1345: (1082) 5720 increase
+1346: (1083) 5731 increase
+1347: (1084) 5738 increase
+1348: (1085) 5741 increase
+1349: (1086) 5743 increase
+1350: (1087) 5744 increase
+1351: (1088) 5754 increase
+1352: (1089) 5756 increase
+1353: (1090) 5764 increase
+1354: (1091) 5770 increase
+1355: (1091) 5769 
+1356: (1092) 5777 increase
+1357: (1093) 5780 increase
+1358: (1094) 5788 increase
+1359: (1095) 5791 increase
+1360: (1096) 5812 increase
+1361: (1097) 5813 increase
+1362: (1098) 5817 increase
+1363: (1099) 5830 increase
+1364: (1100) 5839 increase
+1365: (1101) 5840 increase
+1366: (1102) 5866 increase
+1367: (1103) 5870 increase
+1368: (1104) 5871 increase
+1369: (1104) 5864 
+1370: (1105) 5867 increase
+1371: (1106) 5870 increase
+1372: (1107) 5873 increase
+1373: (1108) 5874 increase
+1374: (1109) 5912 increase
+1375: (1110) 5914 increase
+1376: (1111) 5917 increase
+1377: (1112) 5922 increase
+1378: (1113) 5931 increase
+1379: (1114) 5932 increase
+1380: (1115) 5936 increase
+1381: (1116) 5937 increase
+1382: (1116) 5936 
+1383: (1117) 5938 increase
+1384: (1118) 5959 increase
+1385: (1119) 5961 increase
+1386: (1119) 5955 
+1387: (1120) 5960 increase
+1388: (1121) 5985 increase
+1389: (1122) 5998 increase
+1390: (1122) 5997 
+1391: (1123) 5999 increase
+1392: (1124) 6000 increase
+1393: (1125) 6003 increase
+1394: (1126) 6013 increase
+1395: (1127) 6027 increase
+1396: (1128) 6028 increase
+1397: (1129) 6048 increase
+1398: (1129) 6047 
+1399: (1130) 6049 increase
+1400: (1130) 6043 
+1401: (1131) 6050 increase
+1402: (1132) 6073 increase
+1403: (1133) 6074 increase
+1404: (1134) 6097 increase
+1405: (1135) 6098 increase
+1406: (1136) 6099 increase
+1407: (1137) 6100 increase
+1408: (1138) 6102 increase
+1409: (1139) 6104 increase
+1410: (1140) 6117 increase
+1411: (1140) 6116 
+1412: (1141) 6118 increase
+1413: (1142) 6138 increase
+1414: (1143) 6139 increase
+1415: (1144) 6151 increase
+1416: (1145) 6152 increase
+1417: (1145) 6150 
+1418: (1146) 6152 increase
+1419: (1147) 6153 increase
+1420: (1148) 6163 increase
+1421: (1149) 6187 increase
+1422: (1150) 6191 increase
+1423: (1150) 6187 
+1424: (1151) 6191 increase
+1425: (1151) 6190 
+1426: (1152) 6202 increase
+1427: (1153) 6205 increase
+1428: (1154) 6214 increase
+1429: (1154) 6213 
+1430: (1155) 6216 increase
+1431: (1156) 6217 increase
+1432: (1157) 6219 increase
+1433: (1158) 6225 increase
+1434: (1158) 6200 
+1435: (1159) 6201 increase
+1436: (1160) 6211 increase
+1437: (1161) 6212 increase
+1438: (1162) 6222 increase
+1439: (1163) 6231 increase
+1440: (1163) 6230 
+1441: (1164) 6249 increase
+1442: (1165) 6250 increase
+1443: (1166) 6282 increase
+1444: (1167) 6309 increase
+1445: (1168) 6312 increase
+1446: (1169) 6315 increase
+1447: (1169) 6310 
+1448: (1170) 6314 increase
+1449: (1171) 6328 increase
+1450: (1172) 6335 increase
+1451: (1173) 6336 increase
+1452: (1174) 6341 increase
+1453: (1175) 6348 increase
+1454: (1176) 6351 increase
+1455: (1177) 6353 increase
+1456: (1178) 6358 increase
+1457: (1178) 6357 
+1458: (1179) 6384 increase
+1459: (1180) 6385 increase
+1460: (1180) 6372 
+1461: (1181) 6377 increase
+1462: (1182) 6382 increase
+1463: (1183) 6384 increase
+1464: (1183) 6380 
+1465: (1184) 6382 increase
+1466: (1185) 6384 increase
+1467: (1186) 6385 increase
+1468: (1187) 6388 increase
+1469: (1188) 6391 increase
+1470: (1189) 6406 increase
+1471: (1189) 6405 
+1472: (1190) 6414 increase
+1473: (1191) 6415 increase
+1474: (1192) 6417 increase
+1475: (1193) 6418 increase
+1476: (1194) 6423 increase
+1477: (1195) 6424 increase
+1478: (1196) 6436 increase
+1479: (1197) 6453 increase
+1480: (1198) 6460 increase
+1481: (1198) 6459 
+1482: (1199) 6461 increase
+1483: (1200) 6475 increase
+1484: (1201) 6479 increase
+1485: (1201) 6476 
+1486: (1202) 6477 increase
+1487: (1203) 6479 increase
+1488: (1204) 6482 increase
+1489: (1204) 6481 
+1490: (1204) 6479 
+1491: (1204) 6478 
+1492: (1205) 6491 increase
+1493: (1206) 6500 increase
+1494: (1207) 6504 increase
+1495: (1208) 6505 increase
+1496: (1209) 6506 increase
+1497: (1209) 6483 
+1498: (1209) 6473 
+1499: (1210) 6474 increase
+1500: (1211) 6476 increase
+1501: (1212) 6477 increase
+1502: (1213) 6487 increase
+1503: (1214) 6498 increase
+1504: (1215) 6500 increase
+1505: (1216) 6501 increase
+1506: (1216) 6499 
+1507: (1216) 6497 
+1508: (1217) 6501 increase
+1509: (1218) 6503 increase
+1510: (1219) 6512 increase
+1511: (1219) 6510 
+1512: (1219) 6509 
+1513: (1219) 6496 
+1514: (1220) 6497 increase
+1515: (1221) 6498 increase
+1516: (1222) 6513 increase
+1517: (1223) 6520 increase
+1518: (1224) 6521 increase
+1519: (1225) 6523 increase
+1520: (1226) 6546 increase
+1521: (1226) 6545 
+1522: (1227) 6548 increase
+1523: (1228) 6558 increase
+1524: (1229) 6578 increase
+1525: (1230) 6579 increase
+1526: (1231) 6584 increase
+1527: (1231) 6582 
+1528: (1232) 6588 increase
+1529: (1233) 6593 increase
+1530: (1234) 6610 increase
+1531: (1235) 6616 increase
+1532: (1235) 6605 
+1533: (1236) 6607 increase
+1534: (1237) 6629 increase
+1535: (1237) 6626 
+1536: (1238) 6628 increase
+1537: (1239) 6648 increase
+1538: (1239) 6647 
+1539: (1240) 6675 increase
+1540: (1240) 6674 
+1541: (1241) 6682 increase
+1542: (1242) 6684 increase
+1543: (1243) 6691 increase
+1544: (1244) 6716 increase
+1545: (1245) 6725 increase
+1546: (1246) 6726 increase
+1547: (1247) 6731 increase
+1548: (1248) 6747 increase
+1549: (1249) 6764 increase
+1550: (1250) 6771 increase
+1551: (1251) 6774 increase
+1552: (1252) 6780 increase
+1553: (1253) 6784 increase
+1554: (1254) 6785 increase
+1555: (1255) 6789 increase
+1556: (1256) 6802 increase
+1557: (1257) 6823 increase
+1558: (1258) 6838 increase
+1559: (1259) 6853 increase
+1560: (1260) 6860 increase
+1561: (1260) 6847 
+1562: (1261) 6848 increase
+1563: (1262) 6863 increase
+1564: (1262) 6862 
+1565: (1263) 6868 increase
+1566: (1264) 6872 increase
+1567: (1265) 6873 increase
+1568: (1265) 6865 
+1569: (1266) 6869 increase
+1570: (1267) 6870 increase
+1571: (1268) 6872 increase
+1572: (1269) 6874 increase
+1573: (1270) 6898 increase
+1574: (1271) 6902 increase
+1575: (1272) 6908 increase
+1576: (1272) 6907 
+1577: (1273) 6914 increase
+1578: (1273) 6912 
+1579: (1274) 6913 increase
+1580: (1275) 6918 increase
+1581: (1276) 6940 increase
+1582: (1277) 6942 increase
+1583: (1278) 6943 increase
+1584: (1279) 6944 increase
+1585: (1280) 6945 increase
+1586: (1281) 6948 increase
+1587: (1282) 6949 increase
+1588: (1283) 6950 increase
+1589: (1284) 6956 increase
+1590: (1285) 6961 increase
+1591: (1286) 6978 increase
+1592: (1287) 6984 increase
+1593: (1288) 7007 increase
+1594: (1289) 7011 increase
+1595: (1290) 7019 increase
+1596: (1291) 7031 increase
+1597: (1292) 7038 increase
+1598: (1293) 7052 increase
+1599: (1294) 7053 increase
+1600: (1295) 7059 increase
+1601: (1296) 7064 increase
+1602: (1296) 7058 
+1603: (1297) 7064 increase
+1604: (1298) 7067 increase
+1605: (1299) 7069 increase
+1606: (1299) 7063 
+1607: (1299) 7062 
+1608: (1300) 7084 increase
+1609: (1301) 7086 increase
+1610: (1302) 7093 increase
+1611: (1303) 7096 increase
+1612: (1303) 7088 
+1613: (1304) 7091 increase
+1614: (1305) 7102 increase
+1615: (1305) 7099 
+1616: (1306) 7103 increase
+1617: (1307) 7131 increase
+1618: (1308) 7132 increase
+1619: (1308) 7127 
+1620: (1309) 7130 increase
+1621: (1310) 7131 increase
+1622: (1311) 7132 increase
+1623: (1312) 7133 increase
+1624: (1313) 7134 increase
+1625: (1313) 7133 
+1626: (1314) 7144 increase
+1627: (1315) 7145 increase
+1628: (1316) 7152 increase
+1629: (1317) 7156 increase
+1630: (1318) 7157 increase
+1631: (1319) 7158 increase
+1632: (1319) 7155 
+1633: (1320) 7169 increase
+1634: (1321) 7172 increase
+1635: (1322) 7182 increase
+1636: (1323) 7184 increase
+1637: (1324) 7209 increase
+1638: (1325) 7212 increase
+1639: (1325) 7180 
+1640: (1326) 7185 increase
+1641: (1326) 7184 
+1642: (1327) 7185 increase
+1643: (1328) 7190 increase
+1644: (1328) 7176 
+1645: (1329) 7178 increase
+1646: (1330) 7181 increase
+1647: (1330) 7178 
+1648: (1331) 7186 increase
+1649: (1331) 7179 
+1650: (1332) 7180 increase
+1651: (1333) 7183 increase
+1652: (1333) 7182 
+1653: (1334) 7183 increase
+1654: (1334) 7179 
+1655: (1335) 7181 increase
+1656: (1336) 7185 increase
+1657: (1337) 7187 increase
+1658: (1338) 7200 increase
+1659: (1339) 7201 increase
+1660: (1340) 7202 increase
+1661: (1341) 7204 increase
+1662: (1342) 7205 increase
+1663: (1343) 7213 increase
+1664: (1344) 7216 increase
+1665: (1345) 7217 increase
+1666: (1346) 7219 increase
+1667: (1347) 7220 increase
+1668: (1347) 7217 
+1669: (1348) 7234 increase
+1670: (1349) 7235 increase
+1671: (1350) 7238 increase
+1672: (1351) 7239 increase
+1673: (1351) 7237 
+1674: (1352) 7240 increase
+1675: (1353) 7241 increase
+1676: (1354) 7264 increase
+1677: (1355) 7280 increase
+1678: (1355) 7278 
+1679: (1355) 7267 
+1680: (1356) 7273 increase
+1681: (1357) 7283 increase
+1682: (1358) 7284 increase
+1683: (1359) 7287 increase
+1684: (1360) 7289 increase
+1685: (1360) 7288 
+1686: (1360) 7286 
+1687: (1361) 7311 increase
+1688: (1362) 7323 increase
+1689: (1363) 7332 increase
+1690: (1364) 7333 increase
+1691: (1365) 7336 increase
+1692: (1366) 7339 increase
+1693: (1367) 7343 increase
+1694: (1368) 7351 increase
+1695: (1369) 7376 increase
+1696: (1370) 7380 increase
+1697: (1371) 7381 increase
+1698: (1372) 7382 increase
+1699: (1373) 7392 increase
+1700: (1374) 7402 increase
+1701: (1374) 7400 
+1702: (1375) 7402 increase
+1703: (1376) 7409 increase
+1704: (1377) 7431 increase
+1705: (1378) 7435 increase
+1706: (1379) 7437 increase
+1707: (1380) 7439 increase
+1708: (1381) 7455 increase
+1709: (1381) 7451 
+1710: (1382) 7465 increase
+1711: (1383) 7468 increase
+1712: (1384) 7495 increase
+1713: (1385) 7503 increase
+1714: (1386) 7504 increase
+1715: (1387) 7508 increase
+1716: (1387) 7498 
+1717: (1388) 7502 increase
+1718: (1389) 7503 increase
+1719: (1390) 7504 increase
+1720: (1390) 7496 
+1721: (1391) 7504 increase
+1722: (1392) 7509 increase
+1723: (1393) 7517 increase
+1724: (1394) 7519 increase
+1725: (1394) 7514 
+1726: (1395) 7532 increase
+1727: (1396) 7534 increase
+1728: (1397) 7553 increase
+1729: (1397) 7551 
+1730: (1398) 7555 increase
+1731: (1398) 7550 
+1732: (1399) 7551 increase
+1733: (1400) 7552 increase
+1734: (1401) 7553 increase
+1735: (1402) 7554 increase
+1736: (1403) 7556 increase
+1737: (1404) 7557 increase
+1738: (1405) 7558 increase
+1739: (1406) 7559 increase
+1740: (1407) 7583 increase
+1741: (1408) 7588 increase
+1742: (1409) 7589 increase
+1743: (1410) 7590 increase
+1744: (1410) 7589 
+1745: (1411) 7605 increase
+1746: (1412) 7606 increase
+1747: (1413) 7608 increase
+1748: (1414) 7615 increase
+1749: (1415) 7637 increase
+1750: (1416) 7652 increase
+1751: (1417) 7664 increase
+1752: (1418) 7665 increase
+1753: (1419) 7667 increase
+1754: (1420) 7669 increase
+1755: (1421) 7688 increase
+1756: (1422) 7690 increase
+1757: (1423) 7716 increase
+1758: (1424) 7717 increase
+1759: (1425) 7720 increase
+1760: (1426) 7728 increase
+1761: (1427) 7732 increase
+1762: (1428) 7738 increase
+1763: (1429) 7752 increase
+1764: (1430) 7758 increase
+1765: (1431) 7780 increase
+1766: (1432) 7789 increase
+1767: (1433) 7801 increase
+1768: (1434) 7839 increase
+1769: (1434) 7838 
+1770: (1435) 7849 increase
+1771: (1435) 7848 
+1772: (1436) 7860 increase
+1773: (1436) 7851 
+1774: (1436) 7844 
+1775: (1437) 7845 increase
+1776: (1437) 7844 
+1777: (1438) 7849 increase
+1778: (1439) 7850 increase
+1779: (1440) 7855 increase
+1780: (1440) 7853 
+1781: (1441) 7854 increase
+1782: (1442) 7864 increase
+1783: (1443) 7865 increase
+1784: (1444) 7866 increase
+1785: (1445) 7867 increase
+1786: (1446) 7875 increase
+1787: (1447) 7888 increase
+1788: (1448) 7889 increase
+1789: (1449) 7895 increase
+1790: (1450) 7899 increase
+1791: (1451) 7911 increase
+1792: (1451) 7906 
+1793: (1452) 7934 increase
+1794: (1453) 7938 increase
+1795: (1454) 7941 increase
+1796: (1455) 7943 increase
+1797: (1455) 7936 
+1798: (1455) 7935 
+1799: (1456) 7937 increase
+1800: (1457) 7938 increase
+1801: (1458) 7940 increase
+1802: (1459) 7950 increase
+1803: (1460) 7959 increase
+1804: (1460) 7958 
+1805: (1461) 7966 increase
+1806: (1462) 7968 increase
+1807: (1463) 7992 increase
+1808: (1464) 7996 increase
+1809: (1465) 7997 increase
+1810: (1465) 7991 
+1811: (1466) 7995 increase
+1812: (1467) 7996 increase
+1813: (1468) 8005 increase
+1814: (1469) 8006 increase
+1815: (1470) 8007 increase
+1816: (1471) 8010 increase
+1817: (1472) 8013 increase
+1818: (1473) 8015 increase
+1819: (1473) 8014 
+1820: (1474) 8016 increase
+1821: (1475) 8048 increase
+1822: (1476) 8053 increase
+1823: (1476) 8051 
+1824: (1476) 8030 
+1825: (1477) 8032 increase
+1826: (1477) 8029 
+1827: (1477) 8028 
+1828: (1478) 8029 increase
+1829: (1479) 8038 increase
+1830: (1480) 8047 increase
+1831: (1481) 8069 increase
+1832: (1482) 8084 increase
+1833: (1483) 8099 increase
+1834: (1483) 8095 
+1835: (1484) 8099 increase
+1836: (1485) 8105 increase
+1837: (1485) 8096 
+1838: (1486) 8101 increase
+1839: (1487) 8102 increase
+1840: (1488) 8107 increase
+1841: (1489) 8131 increase
+1842: (1490) 8151 increase
+1843: (1491) 8154 increase
+1844: (1492) 8156 increase
+1845: (1493) 8158 increase
+1846: (1494) 8177 increase
+1847: (1495) 8207 increase
+1848: (1496) 8208 increase
+1849: (1496) 8187 
+1850: (1497) 8188 increase
+1851: (1498) 8191 increase
+1852: (1498) 8168 
+1853: (1499) 8169 increase
+1854: (1500) 8172 increase
+1855: (1501) 8179 increase
+1856: (1502) 8180 increase
+1857: (1503) 8181 increase
+1858: (1504) 8183 increase
+1859: (1505) 8193 increase
+1860: (1506) 8205 increase
+1861: (1507) 8245 increase
+1862: (1508) 8246 increase
+1863: (1509) 8255 increase
+1864: (1509) 8247 
+1865: (1510) 8251 increase
+1866: (1511) 8252 increase
+1867: (1511) 8251 
+1868: (1511) 8250 
+1869: (1512) 8252 increase
+1870: (1513) 8258 increase
+1871: (1514) 8259 increase
+1872: (1515) 8260 increase
+1873: (1516) 8267 increase
+1874: (1517) 8271 increase
+1875: (1518) 8290 increase
+1876: (1519) 8305 increase
+1877: (1520) 8315 increase
+1878: (1521) 8322 increase
+1879: (1522) 8335 increase
+1880: (1523) 8338 increase
+1881: (1524) 8341 increase
+1882: (1525) 8342 increase
+1883: (1525) 8332 
+1884: (1526) 8337 increase
+1885: (1527) 8345 increase
+1886: (1528) 8364 increase
+1887: (1529) 8375 increase
+1888: (1529) 8362 
+1889: (1529) 8361 
+1890: (1530) 8362 increase
+1891: (1530) 8354 
+1892: (1531) 8361 increase
+1893: (1532) 8362 increase
+1894: (1533) 8377 increase
+1895: (1534) 8379 increase
+1896: (1535) 8382 increase
+1897: (1536) 8406 increase
+1898: (1537) 8409 increase
+1899: (1538) 8412 increase
+1900: (1539) 8413 increase
+1901: (1540) 8419 increase
+1902: (1540) 8418 
+1903: (1541) 8419 increase
+1904: (1542) 8430 increase
+1905: (1543) 8435 increase
+1906: (1543) 8429 
+1907: (1544) 8434 increase
+1908: (1545) 8435 increase
+1909: (1545) 8417 
+1910: (1546) 8443 increase
+1911: (1546) 8434 
+1912: (1547) 8447 increase
+1913: (1548) 8449 increase
+1914: (1549) 8452 increase
+1915: (1550) 8459 increase
+1916: (1551) 8486 increase
+1917: (1552) 8487 increase
+1918: (1553) 8489 increase
+1919: (1554) 8490 increase
+1920: (1555) 8510 increase
+1921: (1555) 8508 
+1922: (1556) 8509 increase
+1923: (1557) 8513 increase
+1924: (1558) 8514 increase
+1925: (1558) 8511 
+1926: (1559) 8514 increase
+1927: (1559) 8493 
+1928: (1559) 8476 
+1929: (1559) 8473 
+1930: (1560) 8487 increase
+1931: (1561) 8511 increase
+1932: (1561) 8509 
+1933: (1562) 8517 increase
+1934: (1563) 8521 increase
+1935: (1564) 8544 increase
+1936: (1565) 8549 increase
+1937: (1566) 8567 increase
+1938: (1567) 8589 increase
+1939: (1568) 8594 increase
+1940: (1569) 8598 increase
+1941: (1570) 8624 increase
+1942: (1571) 8650 increase
+1943: (1572) 8654 increase
+1944: (1573) 8655 increase
+1945: (1574) 8663 increase
+1946: (1574) 8662 
+1947: (1575) 8675 increase
+1948: (1576) 8676 increase
+1949: (1577) 8693 increase
+1950: (1578) 8694 increase
+1951: (1578) 8691 
+1952: (1579) 8693 increase
+1953: (1580) 8698 increase
+1954: (1581) 8699 increase
+1955: (1582) 8720 increase
+1956: (1583) 8739 increase
+1957: (1584) 8740 increase
+1958: (1585) 8747 increase
+1959: (1585) 8739 
+1960: (1586) 8740 increase
+1961: (1587) 8761 increase
+1962: (1588) 8767 increase
+1963: (1588) 8761 
+1964: (1589) 8768 increase
+1965: (1589) 8762 
+1966: (1589) 8752 
+1967: (1590) 8757 increase
+1968: (1590) 8754 
+1969: (1591) 8756 increase
+1970: (1592) 8765 increase
+1971: (1593) 8771 increase
+1972: (1594) 8775 increase
+1973: (1595) 8780 increase
+1974: (1596) 8787 increase
+1975: (1596) 8774 
+1976: (1596) 8772 
+1977: (1597) 8784 increase
+1978: (1597) 8778 
+1979: (1598) 8783 increase
+1980: (1599) 8787 increase
+1981: (1600) 8789 increase
+1982: (1601) 8808 increase
+1983: (1602) 8809 increase
+1984: (1603) 8819 increase
+1985: (1604) 8837 increase
+1986: (1605) 8847 increase
+1987: (1606) 8850 increase
+1988: (1606) 8848 
+1989: (1607) 8864 increase
+1990: (1607) 8862 
+1991: (1608) 8864 increase
+1992: (1609) 8891 increase
+1993: (1610) 8892 increase
+1994: (1610) 8884 
+1995: (1611) 8886 increase
+1996: (1612) 8887 increase
+1997: (1613) 8888 increase
+1998: (1614) 8893 increase
+1999: (1615) 8894 increase
+2000: (1616) 8895 increase
+1616 steps deeper
